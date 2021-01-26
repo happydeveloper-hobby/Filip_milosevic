@@ -1,0 +1,175 @@
+{
+  "main": {
+    "name":"Filip Milosevic",
+    "occupation":"Full stack web & mobile & desktop developer",
+    "description":"I am a passionate, experienced, entrepreneurial, hands-on professional with 10+ years of experience solving business challenges through the successful design and implementation of technology.",
+    "image":"profilepic.jpg",
+    "bio":"I spend over 1,000+ hours of intensive training where I have enhanced the skills to be an efficient Full Stack Developer, with a strong understanding of problem-solving, critical thinking, and software engineering that maintain, develop and deploy fully functional dynamic web application from scratch. I earned multiple Black Belts – with the highest measure of achievement attained by the top percentage of students within the program.",
+    "contactmessage":"If you have any idea, please contact me, I will make it reality.",
+    "email": "fmilosevic676@gmail.com",
+    "skype": "live:.cid.6472699e67928cb4",
+    "address":{
+      "street":"Treci Oktobar 111",
+      "city":"Bor",
+      "state":"Serbia"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Specifically, I have long been focusing on responsive web / mobile frontend development with React, Angular, Vue, React Native, Ionic, ES6/7, TypeScript, HTML5, CSS3, Bootstrap, SASS/LESS, StyledComponents, Storyblok, Contentful, Netlify Material-UI, Semantic-UI, etc. Recently I made my own programming team and I became lead here. Talking about technical skills, I and my team primarily work with the following development stack:",
+    "education":[
+      {
+        "school":"Faculty of Computer Science University in Serbia",
+        "degree":"Bachelor's degree - Computer Software Engineering",
+        "graduated":"April 2012",
+        "description":"I had professional software development education."
+      },
+      {
+        "school":"Rutgers Coding Bootcamp on online professional corse",
+        "degree":"Professional coding certification",
+        "graduated":"March 2020",
+        "description":"I had US online professional coding course for 6 months and I improved my professional coding skills with latest versions on programming development."
+      }
+    ],
+    "work":[
+      {
+        "company":"CODETRIBE ",
+        "title":"Sunior Software Engineer",
+        "years":"Oct 2012 – Sep 2017",
+        "description":"An intensive training program designed to equip New Yorkers with the skills necessary to launch careers in web development. This program includes three months of intensive, full-time on-campus training, including classes/lectures, individual, pair and group programming projects, code challenges, presentations and more."
+      },
+      {
+        "company":"HEFES TECHNOLOGY GROUP",
+        "title":"Team manager and CEO, BOSS",
+        "years":"Apr 2020 – Sep 2020",
+        "description":"In this position, I have worked on System Architecture, Database design as a Software Engineer. This is my first Employing Job, I'd like to work with my teammates. Thanks all of them, and I could think my business on my life of the future."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs & React Native",
+        "level":"90%"
+      },
+      {
+        "name":"Angular JS",
+        "level":"85%"
+      },
+      {
+        "name":"Laravel",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"VueJs",
+        "level":"70%"
+      },
+      {
+        "name":"Flutter & Android Studio",
+        "level":"75%"
+      },
+      {
+        "name":"E-commerce & Woocommerce & shopify",
+        "level":"60%"
+      },
+      {
+        "name":"C/C++",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Asia Media",
+        "category":"Asia Media service",
+        "image":"mediaasia.JPG",
+        "url":"https://mediaasia.lk/"
+      },
+      {
+        "title":"Online Shopping Service",
+        "category":"Online shopping website",
+        "image":"shopping.jpg",
+        "url":"https://www.daraz.lk/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"myresume.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Texi Support Website",
+        "category":"WELCOME TO TAXIDEALS",
+        "image":"Texideal.jpg",
+        "url":"https://taxideals.ch/search-home"
+      },
+      {
+        "title":"Name Service",
+        "category":"Help people say your name",
+        "image":"namez.jpg",
+        "url":"http://www.namez.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
